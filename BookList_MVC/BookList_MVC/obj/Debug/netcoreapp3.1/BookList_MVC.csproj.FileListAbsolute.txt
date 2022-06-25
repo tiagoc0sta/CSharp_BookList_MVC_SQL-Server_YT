@@ -416,3 +416,4 @@ C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_MVC_C#_SQLServe
 C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_MVC_C#_SQLServer\CSharp_BookList_MVC_SQL-Server_YT\BookList_MVC\BookList_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_MVC_C#_SQLServer\CSharp_BookList_MVC_SQL-Server_YT\BookList_MVC\BookList_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_MVC_C#_SQLServer\CSharp_BookList_MVC_SQL-Server_YT\BookList_MVC\BookList_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_MVC_C#_SQLServer\CSharp_BookList_MVC_SQL-Server_YT\BookList_MVC\BookList_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Upsert.cshtml.g.cs
